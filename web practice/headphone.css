@@ -1,0 +1,16 @@
+.banner {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
+  .banner img {
+    width: 70%;
+    height: 60%;
+  }
+  .content h1 {
+  font-size: 60px;
+  font-family: serif;
+  }
+  
